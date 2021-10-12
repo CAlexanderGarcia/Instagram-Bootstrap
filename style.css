@@ -1,0 +1,56 @@
+#body{
+    background-color: red;
+    border: black 3px dashed;
+}
+
+.navbar{
+    min-height: 5rem;
+    
+}
+i.lead{
+    font-size: 2rem;
+}
+#photo-instagram{
+    padding-left: 10px;
+}
+
+
+.titulo{
+    text-align: center;
+    background-color: white;
+    display: block;   
+    font-family: 'Ephesis', cursive;
+    font-size: 50px;  
+}
+
+.post{
+    background-color: white;
+    margin: 20px;
+    width: 876px;   
+}
+
+.post-header{
+    display: flex;  
+}
+#fotos{
+    width: 895px;
+    height: 535px;
+    margin-left: -3rem;
+    
+    
+}
+.numero_foto{
+    color: gainsboro;
+    font-size: larger;
+    padding-top: 6px;
+}
+#puntitos{
+    padding-left: 55px;
+  
+}
+
+#fotitos{
+  
+   padding:-2px;
+   margin-left: 1px;
+}
